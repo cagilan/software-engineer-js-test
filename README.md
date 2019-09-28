@@ -4,7 +4,7 @@ This repository contains a basic setup for a JavaScript project. You
 will have the luxury of having a fully configured environment that can
 build a web application. See "_System requirements_" below to get up
 and running! The "_Project outline_" section walks you through a basic
-rundown of the structure.
+rundown of the structure
 
 ## The test
 
